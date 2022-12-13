@@ -1,4 +1,4 @@
-- Hi, I’m James Gruber. I'm a computer engineering student at Cal Poly SLO, and a software engineer at the Cal Poly CubeSat Lab.
+- Hi, I’m James Gruber. I'm a computer engineering student at Cal Poly SLO, and a firmware engineer at the Cal Poly CubeSat Lab.
 - I love to design and program embedded systems, write graphics rendering programs, and build hardware with FPGAs.
 
 
