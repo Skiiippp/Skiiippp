@@ -1,5 +1,4 @@
-AAAAAAAAHHHH
-
+I <3 C
 
 <!---
 Skiiippp/Skiiippp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
